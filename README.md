@@ -1,5 +1,5 @@
 # Data Scientist 
-osmanawad.github.io/portfolio
+#osmanawad.github.io/portfolio
 
 ### Bsc (Hons) artificial intelligence and data science 2024- 2027 Manchester metropolitan university 
 Relevant coursework: principles and pratice of data science cleaning data and processing data which had a lot of errors it was to help preditct the potential investment of figures of stock listed companies using their financial data
